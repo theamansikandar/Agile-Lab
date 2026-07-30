@@ -9,4 +9,4 @@ if __name__ == "__main__":
     y = 5
     print("Sum:", add(x, y))
     print("Difference:", subtract(x, y))
-    print("Product: ",multiply(a,b))
+    print("Product: ",multiply(x,y))
